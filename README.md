@@ -1,16 +1,22 @@
-### Uaglio 👋
+### Hi there, I'm Niccolò  👋
+<img src="https://github-readme-stats.vercel.app/api?username=niccolo-fato&show_icons=true&theme=tokyonight" />
 
-<!--
-**niccolo-fato/niccolo-fato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/niccolo-fato">
+  <img align="left" alt="Niccolò's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.instagram.com/niccolo768/">
+  <img align="left" alt="Niccolò's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Niccolò Fato Spotify Playing" width="350" />](https://open.spotify.com/playlist/7L0atGUGS4USyPXXw1d7wY)
+
+
+
+
