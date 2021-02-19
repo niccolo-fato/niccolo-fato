@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Niccolò Fato Spotify Playing" width="350" />](https://open.spotify.com/playlist/7L0atGUGS4USyPXXw1d7wY)
+
 
 
 
