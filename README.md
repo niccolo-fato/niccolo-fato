@@ -33,7 +33,7 @@
 
  <br><br>
 
- <h3 align="center"><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif">My repositories: </h3>
+ <h3 align="center"><img align="center"height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif">My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Homeworks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
 </a>
