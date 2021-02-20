@@ -2,8 +2,9 @@
 <a href="https://github.com/niccolo-fato">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=niccolo-fato&show_icons=true&theme=tokyonight" />
 </a>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=light&hide_langs_below=1" />
-
+<a href="https://github.com/niccolo-fato">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=1" />
+</a>
 <a href="https://github.com/niccolo-fato">
   <img align="left" alt="Niccolò's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
