@@ -32,8 +32,11 @@
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /></a>
  </p>
 
- <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
-<a href="https://github.com/niccolo-fato/Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
+ <h3><img align="center" height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
+<a href="https://github.com/niccolo-fato/Homeworks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
+</a>
+<a href="https://github.com/niccolo-fato/projects_python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_python&theme=tokyonight" />
 </a>
 
