@@ -5,7 +5,7 @@
 </a> 
 <img align="right" width="50%" src="https://64.media.tumblr.com/84f8d056dbeadc0b7498ab60353f856e/b50bfc7f97dd2cfb-b1/s640x960/aea307cdb21b8930350c3d9b4e92303596034e60.gifv" />
 <a href="https://github.com/niccolo-fato">
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=2" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=2" />
 </a>
  <h3><img  height="50px" src="https://media.tenor.com/images/48b36b09501d8bd69e101432754e03d7/tenor.gif" >Connect with me: </h3>
    <a href="https://github.com/niccolo-fato?tab=followers">
@@ -20,6 +20,10 @@
  <a href="https://www.facebook.com/Niccolo Fato/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" />
  </a>
+ <br>
+ <br>
+ <br>
+ <br>
  <h3><img height="40px" src="https://media.tenor.com/images/5b3d341453d0f8852b12956b3a14a42e/tenor.gif" >Languages and Tools: </h3>
  <p align="left">
   <a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
