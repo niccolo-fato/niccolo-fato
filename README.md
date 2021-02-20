@@ -20,10 +20,7 @@
  <a href="https://www.facebook.com/Niccolo Fato/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" />
  </a>
- <br>
- <br>
- <br>
- <br>
+ <br><br>
  <h3><img height="40px" src="https://media.tenor.com/images/5b3d341453d0f8852b12956b3a14a42e/tenor.gif" >Languages and Tools: </h3>
  <p align="left">
   <a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
@@ -34,16 +31,16 @@
  </p>
 
  <br><br>
-<div align="center">
- <h3 ><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif">My repositories: </h3>
+
+ <h3 align="center"><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif">My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Homeworks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
 </a>
 <a href="https://github.com/niccolo-fato/projects_python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_python&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_python&theme=tokyonight" />
 </a>
 <a href="https://github.com/niccolo-fato/projects_java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_java&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_java&theme=tokyonight" />
 </a>
- </div>
+
 
