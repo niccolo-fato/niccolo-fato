@@ -15,9 +15,7 @@
   <a href="https://www.instagram.com/niccolo768/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
-  <a href="niccolofato13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" href="mailto:niccolofato13@gmail.com"/>
  <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
