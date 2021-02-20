@@ -21,7 +21,11 @@
  <a href="https://www.facebook.com/Niccolo Fato/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" />
  </a>
- <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
+ <h3><img height="40px" src="https://media.tenor.com/images/5b3d341453d0f8852b12956b3a14a42e/tenor.gif" >Languages and Tools:: </h3>
+  <a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black" /></a>
+  <a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" /></a>
+  <a> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /></a>
  <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
