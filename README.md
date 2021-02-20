@@ -1,5 +1,6 @@
-<div align="center">
+
 <img align="center" width="100%" height="250px" src="https://i.imgur.com/BtxNLh3.gif">
+<div align="right">
 <a href="https://github.com/niccolo-fato">
 <img  width="55%"src="https://github-readme-stats.vercel.app/api?username=niccolo-fato&show_icons=true&theme=tokyonight" />
 </a> 
