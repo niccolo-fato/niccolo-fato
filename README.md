@@ -2,11 +2,11 @@
 <img align="center" width="100%" height="250px" src="https://i.imgur.com/BtxNLh3.gif">
 <div align="right">
 <a href="https://github.com/niccolo-fato">
-<img align="right" width="50%"src="https://github-readme-stats.vercel.app/api?username=niccolo-fato&show_icons=true&theme=tokyonight" />
+<img  width="50%"src="https://github-readme-stats.vercel.app/api?username=niccolo-fato&show_icons=true&theme=tokyonight" />
 </a> 
-<img align="right" width="50%" src="https://64.media.tumblr.com/84f8d056dbeadc0b7498ab60353f856e/b50bfc7f97dd2cfb-b1/s640x960/aea307cdb21b8930350c3d9b4e92303596034e60.gifv" />
+<img  width="50%" src="https://64.media.tumblr.com/84f8d056dbeadc0b7498ab60353f856e/b50bfc7f97dd2cfb-b1/s640x960/aea307cdb21b8930350c3d9b4e92303596034e60.gifv" />
 <a href="https://github.com/niccolo-fato">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=2" />
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=2" />
 </a>
  </div>
  <div align="left">
@@ -35,7 +35,7 @@
  </p>
 </div>
  <br><br>
-
+<div align="center">
  <h3 align="center"><img align="center"height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif">My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Homeworks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
@@ -46,5 +46,6 @@
 <a href="https://github.com/niccolo-fato/projects_java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_java&theme=tokyonight" />
 </a>
+ </div>
 
 
