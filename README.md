@@ -18,7 +18,7 @@
   <a href="mailto:niccolofato13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
  </a>
- <a href="https://discord.com/channels/Ǹ̵̀ĩ̴̀c̵̕͝c̸̎̿o̴̿̊l̴͆͗ò̶̓̈#7613">
+ <a href="https://discord.com/Ǹ̵̀ĩ̴̀c̵̕͝c̸̎̿o̴̿̊l̴͆͗ò̶̓̈#7613">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" />
  </a>
  <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
