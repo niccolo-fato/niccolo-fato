@@ -9,6 +9,12 @@
 </a>
  </div>
  <h3><img height="50px" src="https://media.tenor.com/images/48b36b09501d8bd69e101432754e03d7/tenor.gif" >Connect with me: </h3>
+   <a href="https://github.com/niccolo-fato?tab=followers">
+    <img src="https://img.shields.io/github/followers/niccolo-fato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="https://github.com/niccolo-fato?tab=followers">
+    <img src="https://img.shields.io/github/followers/niccolo-fato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
  <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Projects&theme=tokyonight" />
