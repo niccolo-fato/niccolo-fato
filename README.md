@@ -9,6 +9,7 @@
 <img  width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=1" />
 </a>
  </div>
+ <div align="left">
  <h3><img height="50px" src="https://media.tenor.com/images/48b36b09501d8bd69e101432754e03d7/tenor.gif" >Connect with me: </h3>
    <a href="https://github.com/niccolo-fato?tab=followers">
     <img src="https://img.shields.io/github/followers/niccolo-fato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
@@ -30,6 +31,7 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /></a>
  </p>
+ <div>
  <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
