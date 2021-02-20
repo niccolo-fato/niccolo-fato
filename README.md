@@ -6,7 +6,7 @@
 <a href="https://github.com/niccolo-fato">
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccolo-fato&theme=tokyonight&hide_langs_below=1" />
 </a>
-<h4>My social</h4>
+ <h2><img src="https://media.tenor.com/images/48b36b09501d8bd69e101432754e03d7/tenor.gif" height="70px">Connect with me: </h2>
 <a href="https://www.instagram.com/niccolo768/">
   <img align="right" alt="Niccolò's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
