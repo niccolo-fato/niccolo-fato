@@ -8,10 +8,7 @@
 </a>
  <h3><img height="50px" src="https://media.tenor.com/images/48b36b09501d8bd69e101432754e03d7/tenor.gif" >Connect with me: </h3>
 
-<a href="https://instagram.com/niccolo768">
-  <img alt="Niccolo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)
+
 
 
 
