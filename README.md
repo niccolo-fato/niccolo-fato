@@ -14,6 +14,6 @@
   </a>
  <h3><img height="40px" src="https://media.tenor.com/images/52953645f9fdaf8293689965e1ced3cf/tenor.gif" >My repositories: </h3>
 <a href="https://github.com/niccolo-fato/Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Projects&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=Homeworks&theme=tokyonight" />
 </a>
 
