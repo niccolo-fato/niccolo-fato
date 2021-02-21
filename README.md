@@ -1,4 +1,3 @@
-
 <img align="center" width="100%" height="250px" src="https://i.imgur.com/BtxNLh3.gif">
 <a href="https://github.com/niccolo-fato">
 <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=niccolo-fato&show_icons=true&theme=tokyonight" />
@@ -43,7 +42,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niccolo-fato&repo=projects_java&theme=tokyonight" />
 </a>
  </div>
- 
+
 
  
 
