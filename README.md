@@ -27,7 +27,8 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" />
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" />
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" /></a>
- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
+   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=black" /></a>
  </p>
 <br><br><br><br>
 <div align="center">
