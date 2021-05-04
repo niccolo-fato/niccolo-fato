@@ -10,12 +10,6 @@
    <a href="https://github.com/niccolo-fato?tab=followers">
     <img src="https://img.shields.io/github/followers/niccolo-fato?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="https://www.instagram.com/niccolo768/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
-  </a>
-  <a href="mailto:niccolofato13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" />
- </a>
  <a href="https://www.facebook.com/Niccolo Fato/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black" />
  </a>
