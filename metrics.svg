@@ -223,7 +223,7 @@
                     <rect mask="url(#languages-bar)" x="182.1622438556628" y="0" width="119.97675679056098" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="302.1390006462238" y="0" width="45.82883408726105" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="347.96783473348484" y="0" width="40.35583998665861" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="388.3236747201434" y="0" width="35.578057576452444" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="388.3236747201434" y="0" width="35.578057576452444" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="423.90173229659587" y="0" width="21.582727064267996" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="445.4844593608638" y="0" width="11.085030539284151" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="456.56948990014797" y="0" width="3.4305100998519937" height="8" fill="#c6538c"/>
@@ -257,7 +257,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 TypeScript
                             </div>
@@ -1368,7 +1368,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jun 2022, 08:20:39  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 12:34:18  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
