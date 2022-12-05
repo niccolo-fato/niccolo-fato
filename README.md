@@ -3,11 +3,3 @@
   <img align="center" width="1000" src="./photos/gatsu2.png">
 
 
-<script> 
-   function imageClicked() {
-     window.open("https://anilist.co/user/Nick666/");
-   	}
-  function imageClicked1() {
-     window.open("https://anilist.co/user/Nick666/");
-   	}
-</script>
